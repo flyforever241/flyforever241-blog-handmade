@@ -1,0 +1,29 @@
+{
+  "name": "flyforever241-blog-handmade",
+  "version": "0.1.0",
+  "description": "flyforever241's handmade blog",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyforever241/flyforever241-blog-handmade.git"
+  },
+  "keywords": [
+    "blog",
+    "flyforever241",
+    "handmade"
+  ],
+  "author": "flyforever241",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/flyforever241/flyforever241-blog-handmade/issues"
+  },
+  "homepage": "https://github.com/flyforever241/flyforever241-blog-handmade#readme"
+}
